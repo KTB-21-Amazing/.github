@@ -1,20 +1,141 @@
-# ⛳️KTB-21-Amazing
+# 🏆 KTB-21-Amazing | 내 손으로 만드는 나만의 스토리 미로 게임
 
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/1fcd9816-d9dc-43ae-8f16-466597934ad2" />
 
-## 프로젝트 구성
+**KTB-21-Amazing**은 사용자가 직접 만들어가는 미로 게임 프로젝트입니다.  
+플레이어가 선택한 정보에 따라 **세계관과 NPC가 동적으로 생성**되며, 매번 새로운 경험을 제공합니다.
 
-- **Frontend (`fe`)**: [프론트엔드 리포지토리](https://github.com/KTB-21-Amazing/fe)&#8203;:contentReference[oaicite:2]{index=2}
-- **Backend (`be`)**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+🚀 **이 프로젝트는 GitHub Actions + AWS CodeDeploy를 사용하여 자동화된 배포 시스템을 구축하였습니다.**
 
-## CI/CD 파이프라인
+---
 
-:contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+## 📌 **프로젝트 개요**
+### 🎯 **목표**
+- 내가 상상한 대로 스토리가 진행되는 미로 게임
+- 내가 원하는 방식으로 NPC와 상호작용 가능
+- 매번 새로운 환경과 선택지를 제공하여 몰입감 극대화
 
-## 시작하기
+### 🕹 **게임 플레이 방식**
+1. **사용자 입력** → 플레이어가 **이름, 직업, 분위기, 장소** 등을 입력
+2. **세계관 생성** → AI가 해당 정보를 기반으로 게임 환경을 동적으로 생성
+3. **NPC 상호작용** → NPC의 퀴즈를 풀며 진행 (+30초 / -30초)
+4. **미로 탈출 도전** → 제한 시간 내 탈출해야 성공!
 
-각 리포지토리의 README 파일을 참고하여 프로젝트를 시작할 수 있습니다.
+---
 
-## 기여하기
+## 🏗 **기술 스택**
+### 🎮 **프론트엔드**
+- **React.js** + **Phaser.js** → 미로 게임 UI 및 상호작용 구현
+- **TypeScript** → 정적 타입 시스템 적용
+- **Axios** → 백엔드 API 통신
 
-기여를 환영합니다! 버그 제보, 기능 추가 요청 또는 풀 리퀘스트를 통해 프로젝트에 기여할 수 있습니다.
+### ⚙️ **백엔드**
+- **FastAPI** → API 서버 개발
+- **GPT API / DALL·E API / LangChain** → AI 기반 게임 콘텐츠 생성
+
+### ☁️ **클라우드 & 배포**
+- **AWS EC2** → 서버 인프라 호스팅
+- **AWS CodeDeploy + GitHub Actions** → CI/CD 자동화
+
+---
+
+## 🗺️ **아키텍처**
+![image](https://github.com/user-attachments/assets/799b5ae0-c00e-4c55-a34f-d767d04dddcb)
+
+---
+
+## 📂 **리포지토리 구성**
+| 리포지토리 | 설명 |
+|------------|-------------|
+| [fe](https://github.com/KTB-21-Amazing/fe) | 프론트엔드 (React + Phaser.js) |
+| [be](https://github.com/KTB-21-Amazing/be) | 백엔드 (FastAPI + AI API) |
+
+---
+
+## 🚀 **배포 자동화 (CI/CD)**
+이 프로젝트는 GitHub Actions 및 AWS CodeDeploy를 활용하여 자동으로 배포됩니다.
+
+### 🔄 **배포 프로세스**
+1. **GitHub에 코드 푸시** → `main` 브랜치 푸시 시 자동 트리거
+2. **GitHub Actions 실행** → 테스트 및 빌드 수행
+3. **AWS CodeDeploy 배포** → EC2 서버에 자동 업데이트
+
+---
+
+## 🎮 **게임 시작하기**
+1. **[프론트엔드 실행](https://github.com/KTB-21-Amazing/fe)**
+   ```bash
+   git clone https://github.com/KTB-21-Amazing/fe.git
+   cd fe
+   npm install
+   npm start
+   ```
+
+2. **[백엔드 실행](https://github.com/KTB-21-Amazing/be)**
+   ```bash
+   git clone https://github.com/KTB-21-Amazing/be.git
+   cd be
+   pip install -r requirements.txt
+   uvicorn main:app --host 0.0.0.0 --port 8000
+   ```
+
+---
+
+## 🤝 **기여 방법**
+- **Issue 등록** → 버그나 개선점을 [이슈](https://github.com/KTB-21-Amazing/issues)로 남겨주세요.
+- **Pull Request** → 기능을 추가하고 싶다면 PR을 제출해주세요.
+
+---
+
+## 📧 **문의**
+- **GitHub Discussions**: [프로젝트 Q&A](https://github.com/KTB-21-Amazing/discussions)
+- **이메일**: ktb21amazing@example.com
+
+---
+
+## 👨‍💻 **Members**
+
+<table>
+    <tr align="center">
+        <td><B>FrontEnd</B></td>
+        <td><B>Backend</B></td>
+        <td><B>AI</B></td>
+        <td><B>AI</B></td>
+        <td><B>Cloud</B></td>
+        <td><B>Cloud</B></td>
+    </tr>
+    <tr align="center">
+        <td><a href="https://github.com/jinaaaaaaaaaaaaa">Jina</a></td>
+        <td><a href="https://github.com/jeli01">Jelly</a></td>
+        <td><a href="https://github.com/junn0s">Milo</a></td>
+        <td><a href="https://github.com/sophiness">Sophie</a></td>
+        <td><a href="https://github.com/lunghyun">Mello</a></td>
+        <td><a href="https://github.com/hyehae">Hannah</a></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/jinaaaaaaaaaaaaa.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/jeli01.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/junn0s.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/sophiness.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/lunghyun.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/hyehae.png" width = 100>
+        </td>
+    </tr>
+</table>
+
+
+---
+
+이제 해당 README를 GitHub Organization의 `README.md`로 추가하면 됩니다! 🚀  
+추가적으로 수정할 부분이 있으면 알려줘! 😊
