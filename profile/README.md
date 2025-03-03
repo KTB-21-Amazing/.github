@@ -131,4 +131,4 @@
 
 ## 📧 **문의**
 - **GitHub Discussions**: [프로젝트 Q&A](https://github.com/KTB-21-Amazing/discussions)
-- **이메일**: ktb21amazing@example.com
+- **이메일**: ktb@example.com
