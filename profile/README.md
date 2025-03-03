@@ -1,4 +1,4 @@
-# 🏆 KTB-21-Amazing | 내 손으로 만드는 나만의 스토리 미로 게임
+![image](https://github.com/user-attachments/assets/3f2a28aa-2da4-4b6c-ba0d-7895b349ac04)# 🏆 KTB-21-Amazing | 내 손으로 만드는 나만의 스토리 미로 게임
 
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/1fcd9816-d9dc-43ae-8f16-466597934ad2" />
 
@@ -16,10 +16,18 @@
 - 매번 새로운 환경과 선택지를 제공하여 몰입감 극대화
 
 ### 🕹 **게임 플레이 방식**
-1. **사용자 입력** → 플레이어가 **이름, 직업, 분위기, 장소** 등을 입력
-2. **세계관 생성** → AI가 해당 정보를 기반으로 게임 환경을 동적으로 생성
-3. **NPC 상호작용** → NPC의 퀴즈를 풀며 진행 (+30초 / -30초)
-4. **미로 탈출 도전** → 제한 시간 내 탈출해야 성공!
+1. **사용자 입력** → 플레이어가 **이름, 직업, 분위기, 장소** 등을 입력  
+2. **세계관 생성** → AI가 해당 정보를 기반으로 게임 환경을 동적으로 생성  
+3. **NPC 상호작용** → NPC의 퀴즈를 풀며 진행 (+30초 / -30초)  
+4. **미로 탈출 도전** → 제한 시간 내 탈출해야 성공!  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a00a3374-16cb-4447-a9cd-121b654672e2" width="200">
+  <img src="https://github.com/user-attachments/assets/cda423c7-40fb-4bf1-b903-9227f903a474" width="200">
+  <img src="https://github.com/user-attachments/assets/5e3f3b82-91f5-44fd-90f7-d8ac5d0f86f5" width="200">
+  <img src="https://github.com/user-attachments/assets/94e3c4a9-7625-498c-b733-27f4e6d333ea" width="200">
+</p>
+
 
 ---
 
