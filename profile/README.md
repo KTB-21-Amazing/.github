@@ -1,6 +1,6 @@
-# KTB-21-Amazing
+# ⛳️KTB-21-Amazing
 
-**KTB-21-Amazing**은 미로 게임 프로젝트를 개발하고 배포하는 것을 목표로 하는 조직입니다. 이 프로젝트는 GitHub Actions와 AWS CodeDeploy를 활용하여 CI/CD 파이프라인을 구축하였습니다.
+<img width="1276" alt="image" src="https://github.com/user-attachments/assets/1fcd9816-d9dc-43ae-8f16-466597934ad2" />
 
 ## 프로젝트 구성
 
