@@ -97,8 +97,8 @@
 ## 📂 **리포지토리 구성**
 | 리포지토리 | 설명 |
 |------------|-------------|
-| [fe](https://github.com/KTB-21-Amazing/fe) | 프론트엔드 (React + Phaser.js) |
-| [be](https://github.com/KTB-21-Amazing/be) | 백엔드 (FastAPI + AI API) |
+| [fe](https://github.com/KTB-21-Amazing/KTB-21-Amazing-FE) | 프론트엔드 (React + Phaser.js) |
+| [be](https://github.com/KTB-21-Amazing/KTB-21-Amazing-BE) | 백엔드 (FastAPI + AI API) |
 
 ---
 
