@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f2a28aa-2da4-4b6c-ba0d-7895b349ac04)# 🏆 KTB-21-Amazing | 내 손으로 만드는 나만의 스토리 미로 게임
+# 🏆 KTB-21-Amazing | 내 손으로 만드는 나만의 스토리 미로 게임
 
 <img width="1276" alt="image" src="https://github.com/user-attachments/assets/1fcd9816-d9dc-43ae-8f16-466597934ad2" />
 
