@@ -36,6 +36,48 @@
 ### ☁️ **클라우드 & 배포**
 - **AWS EC2** → 서버 인프라 호스팅
 - **AWS CodeDeploy + GitHub Actions** → CI/CD 자동화
+---
+
+## 👨‍💻 **Members**
+
+<table>
+    <tr align="center">
+        <td><B>FrontEnd</B></td>
+        <td><B>Backend</B></td>
+        <td><B>AI</B></td>
+        <td><B>AI</B></td>
+        <td><B>Cloud</B></td>
+        <td><B>Cloud</B></td>
+    </tr>
+    <tr align="center">
+        <td><a href="https://github.com/jinaaaaaaaaaaaaa">Jina</a></td>
+        <td><a href="https://github.com/jeli01">Jelly</a></td>
+        <td><a href="https://github.com/junn0s">Milo</a></td>
+        <td><a href="https://github.com/sophiness">Sophie</a></td>
+        <td><a href="https://github.com/lunghyun">Mello</a></td>
+        <td><a href="https://github.com/hyehae">Hannah</a></td>
+    </tr>
+    <tr align="center">
+        <td>
+            <img src="https://github.com/jinaaaaaaaaaaaaa.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/jeli01.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/junn0s.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/sophiness.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/lunghyun.png" width = 100>
+        </td>
+        <td>
+            <img src="https://github.com/hyehae.png" width = 100>
+        </td>
+    </tr>
+</table>
 
 ---
 
@@ -90,52 +132,3 @@
 ## 📧 **문의**
 - **GitHub Discussions**: [프로젝트 Q&A](https://github.com/KTB-21-Amazing/discussions)
 - **이메일**: ktb21amazing@example.com
-
----
-
-## 👨‍💻 **Members**
-
-<table>
-    <tr align="center">
-        <td><B>FrontEnd</B></td>
-        <td><B>Backend</B></td>
-        <td><B>AI</B></td>
-        <td><B>AI</B></td>
-        <td><B>Cloud</B></td>
-        <td><B>Cloud</B></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://github.com/jinaaaaaaaaaaaaa">Jina</a></td>
-        <td><a href="https://github.com/jeli01">Jelly</a></td>
-        <td><a href="https://github.com/junn0s">Milo</a></td>
-        <td><a href="https://github.com/sophiness">Sophie</a></td>
-        <td><a href="https://github.com/lunghyun">Mello</a></td>
-        <td><a href="https://github.com/hyehae">Hannah</a></td>
-    </tr>
-    <tr align="center">
-        <td>
-            <img src="https://github.com/jinaaaaaaaaaaaaa.png" width = 100>
-        </td>
-        <td>
-            <img src="https://github.com/jeli01.png" width = 100>
-        </td>
-        <td>
-            <img src="https://github.com/junn0s.png" width = 100>
-        </td>
-        <td>
-            <img src="https://github.com/sophiness.png" width = 100>
-        </td>
-        <td>
-            <img src="https://github.com/lunghyun.png" width = 100>
-        </td>
-        <td>
-            <img src="https://github.com/hyehae.png" width = 100>
-        </td>
-    </tr>
-</table>
-
-
----
-
-이제 해당 README를 GitHub Organization의 `README.md`로 추가하면 됩니다! 🚀  
-추가적으로 수정할 부분이 있으면 알려줘! 😊
