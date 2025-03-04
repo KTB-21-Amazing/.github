@@ -90,7 +90,7 @@
 ---
 
 ## 🗺️ **아키텍처**
-![image](https://github.com/user-attachments/assets/799b5ae0-c00e-4c55-a34f-d767d04dddcb)
+![제목 없는 다이어그램 drawio drawio](https://github.com/user-attachments/assets/ad93b177-f906-40b1-bb4f-c9a655f6bbce)
 
 ---
 
